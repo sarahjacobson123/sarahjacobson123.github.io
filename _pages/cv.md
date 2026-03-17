@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 **Master of Science in Business Analytics**, June 2025, Magna Cum Laude, GPA: 3.82
+
 **California Polytechnic State University, San Luis Obispo**
 * Coursework: Data Management, Computing & Machine Learning, Generative AI, Data Analytics & Mining, Econometrics & Data Analysis, Data Visualization, Finance Analytics, Marketing Analytics
 
