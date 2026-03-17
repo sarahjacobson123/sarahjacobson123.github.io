@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /Resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,28 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Master of Science in Business Analytics**, June 2025, Magna Cum Laude, GPA: 3.82
+**California Polytechnic State University, San Luis Obispo**
+* Coursework: Data Management, Computing & Machine Learning, Generative AI, Data Analytics & Mining, Econometrics & Data Analysis, Data Visualization, Finance Analytics, Marketing Analytics
 
-Work experience
+**Bachelor of Science in Business Administration**, Information Systems, June 2024, Cum Laude, GPA: 3.7
+**California Polytechnic State University, San Luis Obispo**
+
+**NCAA Division I Student Athlete | Cal Poly Swim Team | San Luis Obispo, CA**
+* Dedicate 20+ hours a week to training as a full-time graduate student-athlete
+* Conference Championship team member 2022, 2023, 2024, 2025 
+
+
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Spring 2025: Xano Data Analytics Project**
+* Utilized Python to build models analyzing customer behavior and identifying key drivers of conversion
+* Performed PCA and K-Means clustering analysis to segment users into distinct behavioral profiles
+* Communicated data insights through clear, actionable storytelling to stakeholders and delivered
+marketing recommendations aligned with Xano’s strategic goals 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Winter 2025: Seattle Seahawks Data Analytics Project**
+* Analyzed season ticket waitlist data using logistic regression, survival analysis, and time-dependent
+modeling to identify key engagement drivers and conversion trends
+* Developed predictive models with 84%+ accuracy to enhance email and app engagement strategies
+* Provided data-driven marketing recommendations, personalized notifications, targeted email
+campaigns, and social media strategies to increase fan engagement and season ticket conversions 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+**Summer 2023: Brokerage Intern, Amwins Insurance, Seattle, WA**
+* Supported five different brokerage teams with tasks ranging from clearing accounts, logging
+endorsements, and sending out quotes for accounts with premiums exceeding $1 million
+* Completed a comprehensive project using Microsoft Power BI to research different retail agencies
+across the Pacific Northwest and identify new cross-selling opportunities for Amwins in the future 
+
+Projects & Technical Experience
 ======
 * Skill 1
 * Skill 2
