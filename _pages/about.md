@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Data Driven Business Analyst 
+Data Driven Business Analyst | MS in Business Analytics | SQL, Tableau, Python, R
 
 About Me
 ======
@@ -20,6 +20,10 @@ What excites me most about analytics is translating complex data into clear, act
 Outside of analytics, I enjoy playing pickleball, cooking, staying active, and connecting with others in the community.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/sarahjacobson17/).
+
+- [View My Projects](https://academicpages.github.io/portfolio)
+- [Resume](https://academicpages.github.io/cv)
+- [Contact Me](https://academicpages.github.io/guide)
 
 Getting started
 ======
