@@ -11,15 +11,14 @@ redirect_from:
 
 Education
 ======
-**Master of Science in Business Analytics**, June 2025, Magna Cum Laude, GPA: 3.82
-
-**California Polytechnic State University, San Luis Obispo**
+**Master of Science in Business Analytics**, June 2025, Magna Cum Laude, GPA: 3.82  
+**California Polytechnic State University, San Luis Obispo**  
 * Coursework: Data Management, Computing & Machine Learning, Generative AI, Data Analytics & Mining, Econometrics & Data Analysis, Data Visualization, Finance Analytics, Marketing Analytics
 
-**Bachelor of Science in Business Administration**, Information Systems, June 2024, Cum Laude, GPA: 3.7
+**Bachelor of Science in Business Administration**, Information Systems, June 2024, Cum Laude, GPA: 3.7  
 **California Polytechnic State University, San Luis Obispo**
 
-**NCAA Division I Student Athlete | Cal Poly Swim Team | San Luis Obispo, CA**
+**NCAA Division I Student Athlete | Cal Poly Swim Team | San Luis Obispo, CA**  
 * Dedicate 20+ hours a week to training as a full-time graduate student-athlete
 * Conference Championship team member 2022, 2023, 2024, 2025 
 
@@ -47,6 +46,19 @@ across the Pacific Northwest and identify new cross-selling opportunities for Am
 
 Projects & Technical Experience
 ======
+AI Job Market Analysis & Tableau Visualization | GSB 510 – Data Visualization Jan – March 2025
+ Applied logistic and linear regression models to assess AI’s impact on job automation, salaries, and
+industry trends, identifying high-risk roles and in-demand skills
+ Designed interactive Tableau dashboards to visualize AI adoption across industries, highlighting job
+opportunities and job market trends.
+BART Ridership Analysis | GSB 544 – Computing and Machine Learning Sept – Dec 2024
+ Investigated BART ridership trends by integrating and analyzing datasets on crime rates, ticket
+prices, gas prices, and other socioeconomic factors
+ Built predictive models (linear regression, LASSO) to identify key variables impacting BART usage
+ Recommended actionable strategies, including enhanced safety measures and pricing
+optimizations, to boost ridership and reduce environmental impact
+Built MySQL Database | GSB 520 – Database Management Sept – Dec 2024
+ Developed a MySQL database to track purchas
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
