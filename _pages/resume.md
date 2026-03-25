@@ -79,7 +79,7 @@ Skills
 * MS Office
 * MS PowerBI
 
-You can download a PDF copy of my resume [here](file:///C:/Users/sales/OneDrive/Documents/2026_Personal/SarahJacobsonResume.pdf).
+You can download a PDF copy of my resume [here](https://sarahjacobson123.github.io/files/SarahJacobsonResume.pdf).
 
 Publications
 ======
