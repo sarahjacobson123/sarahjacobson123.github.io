@@ -9,4 +9,6 @@ A key focus of this project was **regularization and feature selection**. By app
 
 The final model used regularization to balance model complexity and accuracy, and highlighted key drivers of salary such as **player performance metrics and career statistics**. This project strengthened my ability to apply machine learning techniques for regression, tune hyperparameters, and interpret model coefficients in a business context.
 
+View more details on the Major League Baseball Salary Prediction project [here](https://sarahjacobson123.github.io/files/Lab6.html)
+
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  
