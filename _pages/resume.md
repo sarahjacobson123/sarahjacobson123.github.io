@@ -46,20 +46,21 @@ across the Pacific Northwest and identify new cross-selling opportunities for Am
 
 Projects & Technical Experience
 ======
-**Winter 2025: AI Job Market Analysis & Tableau Visualization | GSB 510 – Data Visualization
+
+**Winter 2025: AI Job Market Analysis & Tableau Visualization | GSB 510 – Data Visualization**
 * Applied logistic and linear regression models to assess AI’s impact on job automation, salaries, and
 industry trends, identifying high-risk roles and in-demand skills
 * Designed interactive Tableau dashboards to visualize AI adoption across industries, highlighting job
 opportunities and job market trends
 
-**Fall 2024: BART Ridership Analysis | GSB 544 – Computing and Machine Learning
+**Fall 2024: BART Ridership Analysis | GSB 544 – Computing and Machine Learning**
 * Investigated BART ridership trends by integrating and analyzing datasets on crime rates, ticket
 prices, gas prices, and other socioeconomic factors
 * Built predictive models (linear regression, LASSO) to identify key variables impacting BART usage
 * Recommended actionable strategies, including enhanced safety measures and pricing
 optimizations, to boost ridership and reduce environmental impact
 
-**Fall 2024 Built MySQL Database | GSB 520 – Database Management 
+**Fall 2024 Built MySQL Database | GSB 520 – Database Management**
 * Developed a MySQL database to track purchases for a local restaurant and executed SQL queries to
 analyze performance and customer behavior
 
@@ -78,7 +79,7 @@ Skills
 * MS Office
 * MS PowerBI
 
-You can download a PDF copy of my resume [here](https://github.com/sarahjacobson123/sarahjacobson123.github.io/blob/master/files/SarahJacobsonResume.pdf).
+You can download a PDF copy of my resume [here](file:///C:/Users/sales/OneDrive/Documents/2026_Personal/SarahJacobsonResume.pdf).
 
 Publications
 ======
