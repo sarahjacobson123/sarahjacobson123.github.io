@@ -24,9 +24,9 @@ Outside of analytics, I enjoy playing pickleball, cooking, staying active, and c
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/sarahjacobson17/).
 
-- [View My Projects](https://academicpages.github.io/portfolio)
-- [Resume](https://academicpages.github.io/cv)
-- [Contact Me](https://academicpages.github.io/guide)
+- [View My Projects](https://sarahjacobson123.github.io/portfolio)
+- [Resume](https://sarahjacobson123.github.io/resume/)
+- [Contact Me](https://sarahjacobson123.github.io/contact)
 
 Getting started
 ======
