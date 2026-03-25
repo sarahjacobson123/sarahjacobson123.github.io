@@ -46,25 +46,39 @@ across the Pacific Northwest and identify new cross-selling opportunities for Am
 
 Projects & Technical Experience
 ======
-AI Job Market Analysis & Tableau Visualization | GSB 510 – Data Visualization Jan – March 2025
- Applied logistic and linear regression models to assess AI’s impact on job automation, salaries, and
+**Winter 2025: AI Job Market Analysis & Tableau Visualization | GSB 510 – Data Visualization
+* Applied logistic and linear regression models to assess AI’s impact on job automation, salaries, and
 industry trends, identifying high-risk roles and in-demand skills
- Designed interactive Tableau dashboards to visualize AI adoption across industries, highlighting job
-opportunities and job market trends.
-BART Ridership Analysis | GSB 544 – Computing and Machine Learning Sept – Dec 2024
- Investigated BART ridership trends by integrating and analyzing datasets on crime rates, ticket
+* Designed interactive Tableau dashboards to visualize AI adoption across industries, highlighting job
+opportunities and job market trends
+
+**Fall 2024: BART Ridership Analysis | GSB 544 – Computing and Machine Learning
+* Investigated BART ridership trends by integrating and analyzing datasets on crime rates, ticket
 prices, gas prices, and other socioeconomic factors
- Built predictive models (linear regression, LASSO) to identify key variables impacting BART usage
- Recommended actionable strategies, including enhanced safety measures and pricing
+* Built predictive models (linear regression, LASSO) to identify key variables impacting BART usage
+* Recommended actionable strategies, including enhanced safety measures and pricing
 optimizations, to boost ridership and reduce environmental impact
-Built MySQL Database | GSB 520 – Database Management Sept – Dec 2024
- Developed a MySQL database to track purchas
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+**Fall 2024 Built MySQL Database | GSB 520 – Database Management 
+* Developed a MySQL database to track purchases for a local restaurant and executed SQL queries to
+analyze performance and customer behavior
+
+Skills
+======
+* Python
+  * Pandas
+  * Numpy
+  * MatPlotLib
+  * scikit-learn
+  * Plotnine
+* SQL
+* Tableau
+* R
+* Excel
+* MS Office
+* MS PowerBI
+
+You can download a PDF copy of my resume [here](https://github.com/sarahjacobson123/sarahjacobson123.github.io/blob/master/files/SarahJacobsonResume.pdf).
 
 Publications
 ======
