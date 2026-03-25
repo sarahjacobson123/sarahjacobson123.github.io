@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Data Driven Business Analyst | MS in Business Analytics | SQL, Tableau, Python, R
+
+
+Data Driven Business Analyst || MS in Business Analytics || SQL, Tableau, Python, R
 
 About Me
 ======
