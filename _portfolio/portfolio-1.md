@@ -1,6 +1,7 @@
 ---
 title: "Heart Attack Risk Prediction"
-excerpt: "Developed and evaluated multiple machine learning models to predict heart attack risk, identifying key predictors and comparing model performance using real-world healthcare decision metrics.<br/><img src='/images/heartattack.png'>"
+excerpt: "Developed and evaluated multiple machine learning models to predict heart attack risk, 
+identifying key predictors and comparing model performance using real-world healthcare decision metrics.<br/><img src='/images/heartattack.png'>"
 collection: portfolio
 ---
 
