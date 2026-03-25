@@ -10,6 +10,6 @@ One of the most valuable parts of this project was going beyond model accuracy a
 
 My analysis showed that **logistic regression performed especially well across multiple scenarios**, with strong recall and precision, while the **decision tree was particularly useful for interpretability**. Across the models, some of the most important predictors were **chest pain type, maximum heart rate achieved during exercise, sex, and age**.
 
-View more details on the Heart Attack Risk Prediction project [here] (file:///C:/Users/sales/OneDrive/Documents/Cal%20Poly%20MSBA/GSB544_MachineLearning/Labs/Lab7.html)
+View more details on the Heart Attack Risk Prediction project [here](file:///C:/Users/sales/OneDrive/Documents/Cal%20Poly%20MSBA/GSB544_MachineLearning/Labs/Lab7.html).
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  
